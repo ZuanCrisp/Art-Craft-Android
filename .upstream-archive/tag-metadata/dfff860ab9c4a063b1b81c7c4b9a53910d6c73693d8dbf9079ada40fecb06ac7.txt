@@ -1,0 +1,13 @@
+Original tag name: v0.0.4-beta
+Destination tag name: lightcraft--v0.0.4-beta
+Original tag object: 97867b89e904f92c5b54fb455afbc5d37473ecc0
+Original target commit: e8bf98bb881da3ba189db3505b1e9e9834ec464a
+Original object type: tag
+
+--- Original annotated tag object body ---
+object e8bf98bb881da3ba189db3505b1e9e9834ec464a
+type commit
+tag v0.0.4-beta
+tagger Josh <bearincrypto@gmail.com> 1791916020 -0600
+
+v0.0.4-beta
