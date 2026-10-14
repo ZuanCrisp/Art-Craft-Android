@@ -1,0 +1,13 @@
+Original tag name: v0.0.2-beta
+Destination tag name: pdfcraft--v0.0.2-beta
+Original tag object: 03aadd513e754924dacc5a04d003adc3025d15c7
+Original target commit: 2b8b90ab1e0ec08ab99aab881e1e2d079abbf94c
+Original object type: tag
+
+--- Original annotated tag object body ---
+object 2b8b90ab1e0ec08ab99aab881e1e2d079abbf94c
+type commit
+tag v0.0.2-beta
+tagger Josh <bearincrypto@gmail.com> 1791992685 -0600
+
+v0.0.2-beta
