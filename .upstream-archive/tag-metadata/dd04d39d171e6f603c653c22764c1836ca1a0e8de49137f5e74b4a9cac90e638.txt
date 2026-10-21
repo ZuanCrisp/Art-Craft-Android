@@ -1,0 +1,7 @@
+Original tag name: v0.0.2-beta
+Destination tag name: capcraft--v0.0.2-beta
+Original tag object: 82d81941ea0a508eadc04227eaf4df41263d1b3f
+Original target commit: 82d81941ea0a508eadc04227eaf4df41263d1b3f
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
