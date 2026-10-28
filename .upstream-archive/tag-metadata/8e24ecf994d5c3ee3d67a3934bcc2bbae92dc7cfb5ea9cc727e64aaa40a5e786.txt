@@ -1,0 +1,13 @@
+Original tag name: v0.0.1-beta
+Destination tag name: gridcraft--v0.0.1-beta
+Original tag object: 32901af0525bee1a8279b2760165be51d3e12b1d
+Original target commit: 72d5bfc0729d0966e9bd966c2eabaa0312eea3ff
+Original object type: tag
+
+--- Original annotated tag object body ---
+object 72d5bfc0729d0966e9bd966c2eabaa0312eea3ff
+type commit
+tag v0.0.1-beta
+tagger Josh <bearincrypto@gmail.com> 1794152890 -0700
+
+v0.0.1-beta
