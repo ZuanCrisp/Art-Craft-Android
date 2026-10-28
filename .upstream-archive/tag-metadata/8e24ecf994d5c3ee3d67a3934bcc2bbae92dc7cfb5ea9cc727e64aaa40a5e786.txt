@@ -1,0 +1,13 @@
+Original tag name: v0.0.1-beta
+Destination tag name: wordcraft--v0.0.1-beta
+Original tag object: b99f2784adb40d0975e9bacb9a94eeb2edf5818f
+Original target commit: b2b7cf913c6f61604062e2db30962f32ec921b11
+Original object type: tag
+
+--- Original annotated tag object body ---
+object b2b7cf913c6f61604062e2db30962f32ec921b11
+type commit
+tag v0.0.1-beta
+tagger Josh <bearincrypto@gmail.com> 1794152885 -0700
+
+v0.0.1-beta
