@@ -1,0 +1,13 @@
+Original tag name: v0.0.2-beta
+Destination tag name: filmcraft--v0.0.2-beta
+Original tag object: d2b97497acb16ac330973a0e5cb80211f66fed68
+Original target commit: f1f255c65326a3d7f25709e9d74a3df21f62cace
+Original object type: tag
+
+--- Original annotated tag object body ---
+object f1f255c65326a3d7f25709e9d74a3df21f62cace
+type commit
+tag v0.0.2-beta
+tagger Josh <bearincrypto@gmail.com> 1793222978 -0600
+
+v0.0.2-beta
