@@ -1,0 +1,13 @@
+Original tag name: v0.0.6-beta
+Destination tag name: procraft--v0.0.6-beta
+Original tag object: 182dd54f8593e3e1e9912aff6ce9873e5cbd2c7b
+Original target commit: c330afd009eae7c739af1a4d61293b1e4b4d3dca
+Original object type: tag
+
+--- Original annotated tag object body ---
+object c330afd009eae7c739af1a4d61293b1e4b4d3dca
+type commit
+tag v0.0.6-beta
+tagger Josh <bearincrypto@gmail.com> 1794601756 -0700
+
+v0.0.6-beta
