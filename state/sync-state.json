@@ -1,0 +1,797 @@
+{
+  "apps": {
+    "capcraft": {
+      "auto_sync": true,
+      "destination_branch": "capcraft",
+      "destination_head_sha": "9fb0d037bf17387db19cc20e2bd9cecf878be99c",
+      "enabled": true,
+      "errors": [],
+      "last_success_at": "2026-11-16T13:08:15Z",
+      "latest_prerelease": null,
+      "latest_stable": {
+        "destination_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/capcraft--v0.0.4-beta",
+        "destination_tag": "capcraft--v0.0.4-beta",
+        "published_at": "2026-11-04T20:21:55Z",
+        "source_tag": "v0.0.4-beta",
+        "upstream_release_id": 434391135,
+        "upstream_release_url": "https://github.com/artcraft-android/capcraft-android/releases/tag/v0.0.4-beta"
+      },
+      "lfs": "not_used",
+      "name": "CapCraft",
+      "releases": [
+        {
+          "action": "synced",
+          "assets": [
+            {
+              "dest_asset_id": 754891013,
+              "name": "capcraft-android-0.0.4-beta.apk",
+              "sha256": "1afc745a1a0d7690eba257215195eb6bdb7c433753e9ae09f34a74ff7fd5e559",
+              "size": 114669562,
+              "source_asset_id": 710752208,
+              "source_updated_at": "2026-11-04T20:03:38Z",
+              "status": "synced"
+            }
+          ],
+          "dest_release_id": 447052739,
+          "dest_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/capcraft--v0.0.4-beta",
+          "dest_tag": "capcraft--v0.0.4-beta",
+          "error": null,
+          "prerelease": false,
+          "published_at": "2026-11-04T20:21:55Z",
+          "source_tag": "v0.0.4-beta",
+          "stale_assets": [],
+          "title": "[CapCraft] v0.0.4-beta",
+          "upstream_release_id": 434391135,
+          "upstream_release_url": "https://github.com/artcraft-android/capcraft-android/releases/tag/v0.0.4-beta"
+        },
+        {
+          "action": "synced",
+          "assets": [
+            {
+              "dest_asset_id": 754890481,
+              "name": "capcraft-android-0.0.3-beta.apk",
+              "sha256": "effee60d73a3c3af4db8e8c7b9a7b923ff128eb271541df6881e03f6a69c088f",
+              "size": 107591290,
+              "source_asset_id": 682825483,
+              "source_updated_at": "2026-10-27T20:45:14Z",
+              "status": "synced"
+            }
+          ],
+          "dest_release_id": 447052598,
+          "dest_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/capcraft--v0.0.3-beta",
+          "dest_tag": "capcraft--v0.0.3-beta",
+          "error": null,
+          "prerelease": false,
+          "published_at": "2026-10-27T21:35:52Z",
+          "source_tag": "v0.0.3-beta",
+          "stale_assets": [],
+          "title": "[CapCraft] v0.0.3-beta",
+          "upstream_release_id": 425965969,
+          "upstream_release_url": "https://github.com/artcraft-android/capcraft-android/releases/tag/v0.0.3-beta"
+        }
+      ],
+      "repository": "artcraft-android/capcraft-android",
+      "seen_release_ids": [
+        416579068,
+        419693558,
+        425965969,
+        434391135
+      ],
+      "slug": "capcraft",
+      "status": "success",
+      "tags": {
+        "invalid": [],
+        "processed": 4,
+        "sanitized": 4,
+        "stale": []
+      },
+      "upstream_default_branch": "main",
+      "upstream_head_sha": "31b4109dbee216612c5416eb400532e4d01a8a16"
+    },
+    "filmcraft": {
+      "auto_sync": true,
+      "destination_branch": "filmcraft",
+      "destination_head_sha": "2f0472723e95c82dab327c7398a3ea4598a94de4",
+      "enabled": true,
+      "errors": [],
+      "last_success_at": "2026-11-16T13:08:15Z",
+      "latest_prerelease": null,
+      "latest_stable": {
+        "destination_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/filmcraft--v0.0.2-beta",
+        "destination_tag": "filmcraft--v0.0.2-beta",
+        "published_at": "2026-10-29T12:42:04Z",
+        "source_tag": "v0.0.2-beta",
+        "upstream_release_id": 427216791,
+        "upstream_release_url": "https://github.com/artcraft-android/filmcraft-android/releases/tag/v0.0.2-beta"
+      },
+      "lfs": "not_used",
+      "name": "FilmCraft",
+      "releases": [
+        {
+          "action": "synced",
+          "assets": [
+            {
+              "dest_asset_id": 754895954,
+              "name": "filmcraft-android-0.0.2-beta.apk",
+              "sha256": "2328859c170eadef12b99295f888eb885abec9012c28241ca73aa9a1ae9ad4c2",
+              "size": 31894775,
+              "source_asset_id": 686420410,
+              "source_updated_at": "2026-10-28T21:36:17Z",
+              "status": "synced"
+            }
+          ],
+          "dest_release_id": 447054371,
+          "dest_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/filmcraft--v0.0.2-beta",
+          "dest_tag": "filmcraft--v0.0.2-beta",
+          "error": null,
+          "prerelease": false,
+          "published_at": "2026-10-29T12:42:04Z",
+          "source_tag": "v0.0.2-beta",
+          "stale_assets": [],
+          "title": "[FilmCraft] v0.0.2-beta",
+          "upstream_release_id": 427216791,
+          "upstream_release_url": "https://github.com/artcraft-android/filmcraft-android/releases/tag/v0.0.2-beta"
+        },
+        {
+          "action": "synced",
+          "assets": [
+            {
+              "dest_asset_id": 754895700,
+              "name": "filmcraft-android-0.0.1-beta.apk",
+              "sha256": "eed0f5253a98deb9d86994173920acb6249c1f6f54c87d4eccf9875a9b35f14f",
+              "size": 31075535,
+              "source_asset_id": 641980537,
+              "source_updated_at": "2026-10-14T23:16:01Z",
+              "status": "synced"
+            }
+          ],
+          "dest_release_id": 447054257,
+          "dest_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/filmcraft--v0.0.1-beta",
+          "dest_tag": "filmcraft--v0.0.1-beta",
+          "error": null,
+          "prerelease": false,
+          "published_at": "2026-10-14T23:31:47Z",
+          "source_tag": "v0.0.1-beta",
+          "stale_assets": [],
+          "title": "[FilmCraft] v0.0.1-beta",
+          "upstream_release_id": 413264217,
+          "upstream_release_url": "https://github.com/artcraft-android/filmcraft-android/releases/tag/v0.0.1-beta"
+        }
+      ],
+      "repository": "artcraft-android/filmcraft-android",
+      "seen_release_ids": [
+        413264217,
+        427216791
+      ],
+      "slug": "filmcraft",
+      "status": "success",
+      "tags": {
+        "invalid": [],
+        "processed": 2,
+        "sanitized": 2,
+        "stale": []
+      },
+      "upstream_default_branch": "main",
+      "upstream_head_sha": "c41b58467edd28d098336286528159b24c5203b5"
+    },
+    "gridcraft": {
+      "auto_sync": true,
+      "destination_branch": "gridcraft",
+      "destination_head_sha": "eb633581fac3257ff0234e62e9753b21dd642f85",
+      "enabled": true,
+      "errors": [],
+      "last_success_at": "2026-11-16T13:08:15Z",
+      "latest_prerelease": null,
+      "latest_stable": {
+        "destination_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/gridcraft--v0.0.1-beta",
+        "destination_tag": "gridcraft--v0.0.1-beta",
+        "published_at": "2026-11-08T15:57:28Z",
+        "source_tag": "v0.0.1-beta",
+        "upstream_release_id": 438348679,
+        "upstream_release_url": "https://github.com/artcraft-android/gridcraft-android/releases/tag/v0.0.1-beta"
+      },
+      "lfs": "not_used",
+      "name": "GridCraft",
+      "releases": [
+        {
+          "action": "synced",
+          "assets": [
+            {
+              "dest_asset_id": 754896669,
+              "name": "gridcraft-android-0.0.1-beta-armeabi-v7a.apk",
+              "sha256": "327c0d685441aa5c503fadeda2495f2a14ac88e05015dc0f027d32734aaff2b9",
+              "size": 15222064,
+              "source_asset_id": 724415005,
+              "source_updated_at": "2026-11-08T15:54:41Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754896795,
+              "name": "gridcraft-android-0.0.1-beta.apk",
+              "sha256": "156860a19d33f62a7749ef6b6457c3ab04d389fe19eed91aec4dd58d1ee5bbad",
+              "size": 18712346,
+              "source_asset_id": 724415004,
+              "source_updated_at": "2026-11-08T15:54:41Z",
+              "status": "synced"
+            }
+          ],
+          "dest_release_id": 447054585,
+          "dest_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/gridcraft--v0.0.1-beta",
+          "dest_tag": "gridcraft--v0.0.1-beta",
+          "error": null,
+          "prerelease": false,
+          "published_at": "2026-11-08T15:57:28Z",
+          "source_tag": "v0.0.1-beta",
+          "stale_assets": [],
+          "title": "[GridCraft] v0.0.1-beta",
+          "upstream_release_id": 438348679,
+          "upstream_release_url": "https://github.com/artcraft-android/gridcraft-android/releases/tag/v0.0.1-beta"
+        }
+      ],
+      "repository": "artcraft-android/gridcraft-android",
+      "seen_release_ids": [
+        438348679
+      ],
+      "slug": "gridcraft",
+      "status": "success",
+      "tags": {
+        "invalid": [],
+        "processed": 1,
+        "sanitized": 1,
+        "stale": []
+      },
+      "upstream_default_branch": "main",
+      "upstream_head_sha": "72d5bfc0729d0966e9bd966c2eabaa0312eea3ff"
+    },
+    "lightcraft": {
+      "auto_sync": true,
+      "destination_branch": "lightcraft",
+      "destination_head_sha": "e345c1dbae179eaa1ddc250b39363982fc3e7869",
+      "enabled": true,
+      "errors": [],
+      "last_success_at": "2026-11-16T13:08:15Z",
+      "latest_prerelease": null,
+      "latest_stable": {
+        "destination_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/lightcraft--v0.0.6-beta",
+        "destination_tag": "lightcraft--v0.0.6-beta",
+        "published_at": "2026-11-04T16:24:14Z",
+        "source_tag": "v0.0.6-beta",
+        "upstream_release_id": 434130764,
+        "upstream_release_url": "https://github.com/artcraft-android/lightcraft-android/releases/tag/v0.0.6-beta"
+      },
+      "lfs": "not_used",
+      "name": "LightCraft",
+      "releases": [
+        {
+          "action": "synced",
+          "assets": [
+            {
+              "dest_asset_id": 754892925,
+              "name": "lightcraft-android-0.0.6-beta-armeabi-v7a.apk",
+              "sha256": "b722b9f14c72b39c6b7ac6cd9100be69a7dae3ddb25477e3342463f233a2e2b6",
+              "size": 28687587,
+              "source_asset_id": 710036890,
+              "source_updated_at": "2026-11-04T15:49:01Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754893099,
+              "name": "lightcraft-android-0.0.6-beta.apk",
+              "sha256": "536dfa4a0755605584d87736b59ecc2a144f5f5a08346a49543b911e101bb746",
+              "size": 38638341,
+              "source_asset_id": 710036884,
+              "source_updated_at": "2026-11-04T15:49:02Z",
+              "status": "synced"
+            }
+          ],
+          "dest_release_id": 447053395,
+          "dest_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/lightcraft--v0.0.6-beta",
+          "dest_tag": "lightcraft--v0.0.6-beta",
+          "error": null,
+          "prerelease": false,
+          "published_at": "2026-11-04T16:24:14Z",
+          "source_tag": "v0.0.6-beta",
+          "stale_assets": [],
+          "title": "[LightCraft] v0.0.6-beta",
+          "upstream_release_id": 434130764,
+          "upstream_release_url": "https://github.com/artcraft-android/lightcraft-android/releases/tag/v0.0.6-beta"
+        },
+        {
+          "action": "synced",
+          "assets": [
+            {
+              "dest_asset_id": 754892577,
+              "name": "lightcraft-android-0.0.5-beta-armeabi-v7a.apk",
+              "sha256": "6aff9c34d166737ee19b46d4797f061faf642fc243415181ec67abe69972f703",
+              "size": 22552483,
+              "source_asset_id": 640659106,
+              "source_updated_at": "2026-10-14T14:38:31Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754892710,
+              "name": "lightcraft-android-0.0.5-beta.apk",
+              "sha256": "ce6840d577f1d38b215ef00c81cc9025e594a55aff3cab42d089980a3fa985d2",
+              "size": 30241341,
+              "source_asset_id": 640659100,
+              "source_updated_at": "2026-10-14T14:38:31Z",
+              "status": "synced"
+            }
+          ],
+          "dest_release_id": 447053244,
+          "dest_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/lightcraft--v0.0.5-beta",
+          "dest_tag": "lightcraft--v0.0.5-beta",
+          "error": null,
+          "prerelease": false,
+          "published_at": "2026-10-14T14:40:50Z",
+          "source_tag": "v0.0.5-beta",
+          "stale_assets": [],
+          "title": "[LightCraft] v0.0.5-beta",
+          "upstream_release_id": 412826034,
+          "upstream_release_url": "https://github.com/artcraft-android/lightcraft-android/releases/tag/v0.0.5-beta"
+        }
+      ],
+      "repository": "artcraft-android/lightcraft-android",
+      "seen_release_ids": [
+        409856082,
+        410763970,
+        410952672,
+        411989699,
+        412826034,
+        434130764
+      ],
+      "slug": "lightcraft",
+      "status": "success",
+      "tags": {
+        "invalid": [],
+        "processed": 6,
+        "sanitized": 6,
+        "stale": []
+      },
+      "upstream_default_branch": "main",
+      "upstream_head_sha": "0378c7ee5a430ffc7ba1907325c0ae2314b7b1cf"
+    },
+    "pdfcraft": {
+      "auto_sync": true,
+      "destination_branch": "pdfcraft",
+      "destination_head_sha": "41f12fcef49d0379f8b15ce21004b097b4f016b3",
+      "enabled": true,
+      "errors": [],
+      "last_success_at": "2026-11-16T13:08:15Z",
+      "latest_prerelease": null,
+      "latest_stable": {
+        "destination_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/pdfcraft--v0.0.7-beta",
+        "destination_tag": "pdfcraft--v0.0.7-beta",
+        "published_at": "2026-11-03T16:53:22Z",
+        "source_tag": "v0.0.7-beta",
+        "upstream_release_id": 432974402,
+        "upstream_release_url": "https://github.com/artcraft-android/pdfcraft-android/releases/tag/v0.0.7-beta"
+      },
+      "lfs": "not_used",
+      "name": "PdfCraft",
+      "releases": [
+        {
+          "action": "synced",
+          "assets": [
+            {
+              "dest_asset_id": 754894965,
+              "name": "pdfcraft-android-0.0.7-beta-armeabi-v7a.apk",
+              "sha256": "0cd6b807769abf1d802cbac9d57e50ad63a29e6446ff6bfc936ab1869a1fc483",
+              "size": 39139418,
+              "source_asset_id": 706360631,
+              "source_updated_at": "2026-11-03T16:52:53Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754895108,
+              "name": "pdfcraft-android-0.0.7-beta.apk",
+              "sha256": "ba9c3486b5359829e1265f099806e78eb5b8597944a817caee2f0ec9e5570b6b",
+              "size": 47694552,
+              "source_asset_id": 706360628,
+              "source_updated_at": "2026-11-03T16:52:54Z",
+              "status": "synced"
+            }
+          ],
+          "dest_release_id": 447053999,
+          "dest_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/pdfcraft--v0.0.7-beta",
+          "dest_tag": "pdfcraft--v0.0.7-beta",
+          "error": null,
+          "prerelease": false,
+          "published_at": "2026-11-03T16:53:22Z",
+          "source_tag": "v0.0.7-beta",
+          "stale_assets": [],
+          "title": "[PdfCraft] v0.0.7-beta",
+          "upstream_release_id": 432974402,
+          "upstream_release_url": "https://github.com/artcraft-android/pdfcraft-android/releases/tag/v0.0.7-beta"
+        },
+        {
+          "action": "synced",
+          "assets": [
+            {
+              "dest_asset_id": 754894568,
+              "name": "pdfcraft-android-0.0.6-beta-armeabi-v7a.apk",
+              "sha256": "c1c04f1aa7507e409394a8b91ef6860c7831c8bd951bb5c589c9ccaae0c1970b",
+              "size": 38604794,
+              "source_asset_id": 684990612,
+              "source_updated_at": "2026-10-28T12:52:13Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754894707,
+              "name": "pdfcraft-android-0.0.6-beta.apk",
+              "sha256": "ae25418256404b3e2282c8a0ad61c4e58ba8ae4cbedb465357c47444ae9ad48c",
+              "size": 47054792,
+              "source_asset_id": 684990616,
+              "source_updated_at": "2026-10-28T12:52:13Z",
+              "status": "synced"
+            }
+          ],
+          "dest_release_id": 447053843,
+          "dest_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/pdfcraft--v0.0.6-beta",
+          "dest_tag": "pdfcraft--v0.0.6-beta",
+          "error": null,
+          "prerelease": false,
+          "published_at": "2026-10-28T12:53:22Z",
+          "source_tag": "v0.0.6-beta",
+          "stale_assets": [],
+          "title": "[PdfCraft] v0.0.6-beta",
+          "upstream_release_id": 426664300,
+          "upstream_release_url": "https://github.com/artcraft-android/pdfcraft-android/releases/tag/v0.0.6-beta"
+        }
+      ],
+      "repository": "artcraft-android/pdfcraft-android",
+      "seen_release_ids": [
+        411745282,
+        412904875,
+        414322041,
+        416632824,
+        419783063,
+        426664300,
+        432974402
+      ],
+      "slug": "pdfcraft",
+      "status": "success",
+      "tags": {
+        "invalid": [],
+        "processed": 7,
+        "sanitized": 7,
+        "stale": []
+      },
+      "upstream_default_branch": "main",
+      "upstream_head_sha": "6873a87e0acecae61c0ac02422deb99e890abdf7"
+    },
+    "procraft": {
+      "auto_sync": true,
+      "destination_branch": "procraft",
+      "destination_head_sha": "155126dd15d65a4e81551840a433f94bddc3572b",
+      "enabled": true,
+      "errors": [],
+      "last_success_at": "2026-11-16T13:08:15Z",
+      "latest_prerelease": null,
+      "latest_stable": {
+        "destination_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/procraft--v0.0.6-beta",
+        "destination_tag": "procraft--v0.0.6-beta",
+        "published_at": "2026-11-13T21:01:04Z",
+        "source_tag": "v0.0.6-beta",
+        "upstream_release_id": 444719621,
+        "upstream_release_url": "https://github.com/artcraft-android/procraft/releases/tag/v0.0.6-beta"
+      },
+      "lfs": "not_used",
+      "name": "ProCraft",
+      "releases": [
+        {
+          "action": "synced",
+          "assets": [
+            {
+              "dest_asset_id": 754892630,
+              "name": "procraft-0.0.6-beta-android-arm64.apk",
+              "sha256": "a4cdf0a2e42fdb25e5a435fabfd90a5840b6611f7d1217c78411aeb652fcfb50",
+              "size": 29370445,
+              "source_asset_id": 745119187,
+              "source_updated_at": "2026-11-13T20:44:35Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754892801,
+              "name": "procraft-0.0.6-beta-android-legacy-arm32.apk",
+              "sha256": "751b81b152659039f23241cf0d7b78a3e20211f2441dd0bbb0c812d667d09850",
+              "size": 23936859,
+              "source_asset_id": 745119193,
+              "source_updated_at": "2026-11-13T20:44:34Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754893006,
+              "name": "procraft-0.0.6-beta-linux-x86_64.AppImage",
+              "sha256": "f184e51f5474c6109d3e4ef6f3ab954443dea8d69909c92a2c62f8f600af2b62",
+              "size": 23046648,
+              "source_asset_id": 745119194,
+              "source_updated_at": "2026-11-13T20:44:34Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754893162,
+              "name": "procraft-0.0.6-beta-linux-x86_64.deb",
+              "sha256": "49b3d07d327c2b95d09b3daee59c087e54906c25b8d03ca22165ad01ddb7c016",
+              "size": 24336250,
+              "source_asset_id": 745119196,
+              "source_updated_at": "2026-11-13T20:44:34Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754893288,
+              "name": "procraft-0.0.6-beta-linux-x86_64.tar.gz",
+              "sha256": "c0dcbfc6f709ae0e43b9c9ab2119532895670fd0e7a040f6e96c60b64290eeee",
+              "size": 23732913,
+              "source_asset_id": 745119236,
+              "source_updated_at": "2026-11-13T20:44:34Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754893739,
+              "name": "procraft-0.0.6-beta-macos-universal.dmg",
+              "sha256": "d722463c973f4adacc08f980d41ebb564d0ab11dc5004c735a523df37a1af914",
+              "size": 46889772,
+              "source_asset_id": 745119307,
+              "source_updated_at": "2026-11-13T20:44:37Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754893979,
+              "name": "procraft-0.0.6-beta-windows-arm64-portable.zip",
+              "sha256": "2babc7b2378ff4ade246e2eaf0361f1408b2c087a56c9f8a1b02523bc066388b",
+              "size": 22252857,
+              "source_asset_id": 745119308,
+              "source_updated_at": "2026-11-13T20:44:36Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754894142,
+              "name": "procraft-0.0.6-beta-windows-arm64.msi",
+              "sha256": "bb1c9551571068016b4937262d20879d33393e539581d4c2ac773e6732337bc3",
+              "size": 18239488,
+              "source_asset_id": 745119311,
+              "source_updated_at": "2026-11-13T20:44:36Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754894308,
+              "name": "procraft-0.0.6-beta-windows-x64-portable.zip",
+              "sha256": "60ff2545546c8a5d6241824886487af06cc0451fe3e34cf64f4b5600496225ac",
+              "size": 23339184,
+              "source_asset_id": 745119319,
+              "source_updated_at": "2026-11-13T20:44:37Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754894418,
+              "name": "procraft-0.0.6-beta-windows-x64.msi",
+              "sha256": "99330ec32337ffdc068e8a47812a9b10c8ffa5a38865bed2802be75e41e34db7",
+              "size": 19365888,
+              "source_asset_id": 745119329,
+              "source_updated_at": "2026-11-13T20:44:36Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754894537,
+              "name": "SHA256SUMS.txt",
+              "sha256": "702b1c873a261a2e8fd9e63280ebac702d0d5c5d2f2b3fe3f17b668ffbca5617",
+              "size": 1068,
+              "source_asset_id": 745119195,
+              "source_updated_at": "2026-11-13T20:44:33Z",
+              "status": "synced"
+            }
+          ],
+          "dest_release_id": 447053260,
+          "dest_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/procraft--v0.0.6-beta",
+          "dest_tag": "procraft--v0.0.6-beta",
+          "error": null,
+          "prerelease": false,
+          "published_at": "2026-11-13T21:01:04Z",
+          "source_tag": "v0.0.6-beta",
+          "stale_assets": [],
+          "title": "[ProCraft] v0.0.6-beta",
+          "upstream_release_id": 444719621,
+          "upstream_release_url": "https://github.com/artcraft-android/procraft/releases/tag/v0.0.6-beta"
+        },
+        {
+          "action": "synced",
+          "assets": [
+            {
+              "dest_asset_id": 754890896,
+              "name": "procraft-0.0.5-beta-android-arm32.apk",
+              "sha256": "848c6539fb52600fab2ff400117ba11edfd42f27c22fbd255d74744fc92b5e35",
+              "size": 22017555,
+              "source_asset_id": 721459405,
+              "source_updated_at": "2026-11-07T17:50:38Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754891068,
+              "name": "procraft-0.0.5-beta-android-arm64.apk",
+              "sha256": "6d7ca07230dde89d56c41161c251007be4636b4ea86e7559108d9f62448b49c8",
+              "size": 27203765,
+              "source_asset_id": 721459409,
+              "source_updated_at": "2026-11-07T17:50:38Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754891202,
+              "name": "procraft-0.0.5-beta-linux-x86_64.AppImage",
+              "sha256": "d5d4b8f5e692f6de8efac6fe47d2851b6bd3adfebf41b4d1729cbb20649dc1fb",
+              "size": 22223352,
+              "source_asset_id": 721459407,
+              "source_updated_at": "2026-11-07T17:50:39Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754891394,
+              "name": "procraft-0.0.5-beta-linux-x86_64.deb",
+              "sha256": "fd8dda7306a38880a842a2152ad15e9dba614f37a2fdae8d94ac3e3e73b1f814",
+              "size": 23456782,
+              "source_asset_id": 721459406,
+              "source_updated_at": "2026-11-07T17:50:38Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754891579,
+              "name": "procraft-0.0.5-beta-linux-x86_64.tar.gz",
+              "sha256": "0652cae8ca279db9c8e409617e649088bac69b072c7925f9225ab8f145c991ef",
+              "size": 22871569,
+              "source_asset_id": 721459443,
+              "source_updated_at": "2026-11-07T17:50:38Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754891720,
+              "name": "procraft-0.0.5-beta-windows-arm64-portable.zip",
+              "sha256": "973b178ff14feec21d04c4df20248bd7c69b2252ae5c9f4bfbed49e1145e9f94",
+              "size": 21324850,
+              "source_asset_id": 721459489,
+              "source_updated_at": "2026-11-07T17:50:39Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754891889,
+              "name": "procraft-0.0.5-beta-windows-arm64.msi",
+              "sha256": "9738382df5456fc18a9509c04a2e37620dc51cb202883fd3a7fa85caca0ac154",
+              "size": 17551360,
+              "source_asset_id": 721459501,
+              "source_updated_at": "2026-11-07T17:50:39Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754892074,
+              "name": "procraft-0.0.5-beta-windows-x64-portable.zip",
+              "sha256": "3fad451e9e2bb047bcb8f7e15a1e606ce15a0cfa46720c7b62b890e24fba46bd",
+              "size": 22293522,
+              "source_asset_id": 721459500,
+              "source_updated_at": "2026-11-07T17:50:39Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754892239,
+              "name": "procraft-0.0.5-beta-windows-x64.msi",
+              "sha256": "ea861f668c1148876f2ee61023b63ac14bad8d28c51d8122e78c32683ab282fd",
+              "size": 18542592,
+              "source_asset_id": 721459514,
+              "source_updated_at": "2026-11-07T17:50:40Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754892387,
+              "name": "SHA256SUMS.txt",
+              "sha256": "6b0bd74df4c565aaf3869c3333b737fc99502731d61912d63fc740a6e427e0af",
+              "size": 955,
+              "source_asset_id": 721459408,
+              "source_updated_at": "2026-11-07T17:50:37Z",
+              "status": "synced"
+            }
+          ],
+          "dest_release_id": 447052705,
+          "dest_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/procraft--v0.0.5-beta",
+          "dest_tag": "procraft--v0.0.5-beta",
+          "error": null,
+          "prerelease": false,
+          "published_at": "2026-11-07T19:57:43Z",
+          "source_tag": "v0.0.5-beta",
+          "stale_assets": [],
+          "title": "[ProCraft] v0.0.5-beta",
+          "upstream_release_id": 437739393,
+          "upstream_release_url": "https://github.com/artcraft-android/procraft/releases/tag/v0.0.5-beta"
+        }
+      ],
+      "repository": "artcraft-android/procraft",
+      "seen_release_ids": [
+        425909954,
+        427848204,
+        431940652,
+        434269807,
+        437739393,
+        444719621
+      ],
+      "slug": "procraft",
+      "status": "success",
+      "tags": {
+        "invalid": [],
+        "processed": 6,
+        "sanitized": 6,
+        "stale": []
+      },
+      "upstream_default_branch": "main",
+      "upstream_head_sha": "7f73ab17fabe2b4a536a564c1dbdc702833ee407"
+    },
+    "wordcraft": {
+      "auto_sync": true,
+      "destination_branch": "wordcraft",
+      "destination_head_sha": "eadd0a61a1ce567425b40352d13bb875dba9125e",
+      "enabled": true,
+      "errors": [],
+      "last_success_at": "2026-11-16T13:08:15Z",
+      "latest_prerelease": null,
+      "latest_stable": {
+        "destination_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/wordcraft--v0.0.1-beta",
+        "destination_tag": "wordcraft--v0.0.1-beta",
+        "published_at": "2026-11-08T15:59:31Z",
+        "source_tag": "v0.0.1-beta",
+        "upstream_release_id": 438351089,
+        "upstream_release_url": "https://github.com/artcraft-android/wordcraft-android/releases/tag/v0.0.1-beta"
+      },
+      "lfs": "not_used",
+      "name": "WordCraft",
+      "releases": [
+        {
+          "action": "synced",
+          "assets": [
+            {
+              "dest_asset_id": 754897289,
+              "name": "wordcraft-android-0.0.1-beta-armeabi-v7a.apk",
+              "sha256": "7736c4e635b8bf91209dfe87bce2eeb763fb6b1111b7c4363401b370ce8001d7",
+              "size": 29682181,
+              "source_asset_id": 724425298,
+              "source_updated_at": "2026-11-08T15:58:55Z",
+              "status": "synced"
+            },
+            {
+              "dest_asset_id": 754897411,
+              "name": "wordcraft-android-0.0.1-beta.apk",
+              "sha256": "21fa30bc409dbf9bced7a46a5cc3f2af50d389f0707c3323271b7debc70df6c5",
+              "size": 37111071,
+              "source_asset_id": 724425297,
+              "source_updated_at": "2026-11-08T15:58:56Z",
+              "status": "synced"
+            }
+          ],
+          "dest_release_id": 447054859,
+          "dest_release_url": "https://github.com/ZuanCrisp/Art-Craft-Android/releases/tag/wordcraft--v0.0.1-beta",
+          "dest_tag": "wordcraft--v0.0.1-beta",
+          "error": null,
+          "prerelease": false,
+          "published_at": "2026-11-08T15:59:31Z",
+          "source_tag": "v0.0.1-beta",
+          "stale_assets": [],
+          "title": "[WordCraft] v0.0.1-beta",
+          "upstream_release_id": 438351089,
+          "upstream_release_url": "https://github.com/artcraft-android/wordcraft-android/releases/tag/v0.0.1-beta"
+        }
+      ],
+      "repository": "artcraft-android/wordcraft-android",
+      "seen_release_ids": [
+        438351089
+      ],
+      "slug": "wordcraft",
+      "status": "success",
+      "tags": {
+        "invalid": [],
+        "processed": 1,
+        "sanitized": 1,
+        "stale": []
+      },
+      "upstream_default_branch": "main",
+      "upstream_head_sha": "b2b7cf913c6f61604062e2db30962f32ec921b11"
+    }
+  },
+  "destination": "ZuanCrisp/Art-Craft-Android",
+  "generated_at": "2026-11-16T13:08:15Z",
+  "schema_version": 1
+}
