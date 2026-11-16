@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "project": {
+    "name": "Art Craft Android",
+    "expected_app_count": 7
+  },
+  "destination": {
+    "repository": "ZuanCrisp/Art-Craft-Android",
+    "default_branch": "capcraft",
+    "control_branch": "art-craft-control"
+  },
+  "automation": {
+    "mode": "manual-per-app"
+  },
+  "tag_policy": {
+    "range": "1-ALL"
+  },
+  "release_policy": {
+    "include_published": true,
+    "include_prereleases": true,
+    "include_drafts": false,
+    "make_latest": "false",
+    "initial_release_window": 2,
+    "prune_deleted_releases": false,
+    "prune_deleted_assets": false,
+    "verify_asset_sha256": true,
+    "neutralize_mentions": true
+  },
+  "apps": [
+    {
+      "slug": "capcraft",
+      "name": "CapCraft",
+      "repository": "artcraft-android/capcraft-android",
+      "upstream_url": "https://github.com/artcraft-android/capcraft-android.git",
+      "destination_branch": "capcraft",
+      "enabled": true,
+      "auto_sync": true,
+      "sync_source_default_branch": true,
+      "sync_tags": true,
+      "sync_releases": true,
+      "sync_prereleases": true
+    },
+    {
+      "slug": "procraft",
+      "name": "ProCraft",
+      "repository": "artcraft-android/procraft",
+      "upstream_url": "https://github.com/artcraft-android/procraft.git",
+      "destination_branch": "procraft",
+      "enabled": true,
+      "auto_sync": true,
+      "sync_source_default_branch": true,
+      "sync_tags": true,
+      "sync_releases": true,
+      "sync_prereleases": true
+    },
+    {
+      "slug": "lightcraft",
+      "name": "LightCraft",
+      "repository": "artcraft-android/lightcraft-android",
+      "upstream_url": "https://github.com/artcraft-android/lightcraft-android.git",
+      "destination_branch": "lightcraft",
+      "enabled": true,
+      "auto_sync": true,
+      "sync_source_default_branch": true,
+      "sync_tags": true,
+      "sync_releases": true,
+      "sync_prereleases": true
+    },
+    {
+      "slug": "pdfcraft",
+      "name": "PdfCraft",
+      "repository": "artcraft-android/pdfcraft-android",
+      "upstream_url": "https://github.com/artcraft-android/pdfcraft-android.git",
+      "destination_branch": "pdfcraft",
+      "enabled": true,
+      "auto_sync": true,
+      "sync_source_default_branch": true,
+      "sync_tags": true,
+      "sync_releases": true,
+      "sync_prereleases": true
+    },
+    {
+      "slug": "filmcraft",
+      "name": "FilmCraft",
+      "repository": "artcraft-android/filmcraft-android",
+      "upstream_url": "https://github.com/artcraft-android/filmcraft-android.git",
+      "destination_branch": "filmcraft",
+      "enabled": true,
+      "auto_sync": true,
+      "sync_source_default_branch": true,
+      "sync_tags": true,
+      "sync_releases": true,
+      "sync_prereleases": true
+    },
+    {
+      "slug": "gridcraft",
+      "name": "GridCraft",
+      "repository": "artcraft-android/gridcraft-android",
+      "upstream_url": "https://github.com/artcraft-android/gridcraft-android.git",
+      "destination_branch": "gridcraft",
+      "enabled": true,
+      "auto_sync": true,
+      "sync_source_default_branch": true,
+      "sync_tags": true,
+      "sync_releases": true,
+      "sync_prereleases": true
+    },
+    {
+      "slug": "wordcraft",
+      "name": "WordCraft",
+      "repository": "artcraft-android/wordcraft-android",
+      "upstream_url": "https://github.com/artcraft-android/wordcraft-android.git",
+      "destination_branch": "wordcraft",
+      "enabled": true,
+      "auto_sync": true,
+      "sync_source_default_branch": true,
+      "sync_tags": true,
+      "sync_releases": true,
+      "sync_prereleases": true
+    }
+  ]
+}
